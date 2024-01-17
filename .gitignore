@@ -1,0 +1,6 @@
+*.db
+.idea/
+venv/
+.env
+*.sql
+__pycache__/
